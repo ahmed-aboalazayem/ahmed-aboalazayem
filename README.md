@@ -23,4 +23,4 @@ Seeking an entry-level opportunity to contribute to real-world projects, strengt
 ---
 
 ## 📫 Connect with Me
-[LinkedIn]([https://www.linkedin.com/in/ahmed-aboalazayem/](https://linkedin.com/in/ahmed-aboalazayem-664562326)) | [Portfolio](https://ahmed-aboalazayem.github.io/my-portfolio) | [Email](ahmedaboalazayem1@gmail.com)
+[LinkedIn](https://linkedin.com/in/ahmed-aboalazayem-664562326) | [Portfolio](https://ahmed-aboalazayem.github.io/my-portfolio) | [Email](ahmedaboalazayem1@gmail.com)
